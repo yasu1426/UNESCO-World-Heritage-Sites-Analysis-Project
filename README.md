@@ -53,6 +53,13 @@ UNESCO Sites Analysis/
 - whc-sites-2019.csv
 - Project Demo Video.mp4
 
+  
+## Project Demo Video
+https://drive.google.com/file/d/1S7IHOVMTNsenbdj5DJwkLL9L2PNywgCk/view?usp=drive_link
+
+## GitHub Repository
+https://github.com/yasu1426/UNESCO-World-Heritage-Sites-Analysis-Project
+
 ---
 
 ## How to Run
